@@ -1,0 +1,6 @@
+C:\Users\crazz\Documents\Visotskiy_Laba1\Visotskiy_Laba1\bin\Visotskiy_Laba1.dll.config
+C:\Users\crazz\Documents\Visotskiy_Laba1\Visotskiy_Laba1\bin\Visotskiy_Laba1.dll
+C:\Users\crazz\Documents\Visotskiy_Laba1\Visotskiy_Laba1\bin\Visotskiy_Laba1.pdb
+C:\Users\crazz\Documents\Visotskiy_Laba1\Visotskiy_Laba1\obj\Debug\Visotskiy_Laba1.csprojResolveAssemblyReference.cache
+C:\Users\crazz\Documents\Visotskiy_Laba1\Visotskiy_Laba1\obj\Debug\Visotskiy_Laba1.dll
+C:\Users\crazz\Documents\Visotskiy_Laba1\Visotskiy_Laba1\obj\Debug\Visotskiy_Laba1.pdb
