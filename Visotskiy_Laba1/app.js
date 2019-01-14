@@ -80,7 +80,11 @@ function Task_9() {
         total += array_s[i];
     }
     var avg = total / array_s.length;
-    el.innerHTML = avg;
+    if (avg > array_s.length)
+        el.innerHTML = "YES";
+    else
+        el.innerHTML = "NO";
+    //el.innerHTML = avg;
 }
 function Task_10() {
     var el = this.document.getElementById("content10");

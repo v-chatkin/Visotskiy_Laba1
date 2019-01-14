@@ -88,7 +88,9 @@ function Task_9() {
         total += array_s[i];
     }
     let avg: number = total / array_s.length;
-    el.innerHTML = avg;
+    if (avg > array_s.length) el.innerHTML = "YES"
+    else el.innerHTML = "NO"
+    //el.innerHTML = avg;
 }
 
 function Task_10() {
