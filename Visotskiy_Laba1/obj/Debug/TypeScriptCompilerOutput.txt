@@ -96,3 +96,4 @@ C:\Users\crazz\AppData\Local\Temporary Projects\TypeScriptHTMLApp1\app.js
 C:\Users\crazz\Documents\Visotskiy_Laba1\Visotskiy_Laba1\app.js
 C:\Users\crazz\Documents\Visotskiy_Laba1\Visotskiy_Laba1\app.js
 C:\Users\crazz\Documents\Visotskiy_Laba1\Visotskiy_Laba1\app.js
+C:\Users\crazz\Documents\Visotskiy_Laba1\Visotskiy_Laba1\app.js

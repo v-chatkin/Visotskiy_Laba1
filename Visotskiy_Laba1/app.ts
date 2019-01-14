@@ -49,7 +49,7 @@ function Task_4() {
     let array_s = s.split(",").map(Number);
     let c = Math.max.apply(null, array_s);
     //array_s.sort((a, b) => a - b);
-    el.innerHTML = array_s.indexOf(c);
+    el.innerHTML = array_s.indexOf(c)+1;
 }
 function Task_7() {
     var el = this.document.getElementById("content7");
