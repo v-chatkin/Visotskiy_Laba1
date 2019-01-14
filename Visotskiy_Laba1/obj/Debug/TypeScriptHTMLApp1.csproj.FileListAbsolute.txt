@@ -1,0 +1,6 @@
+C:\Users\crazz\AppData\Local\Temporary Projects\TypeScriptHTMLApp1\bin\TypeScriptHTMLApp1.dll.config
+C:\Users\crazz\AppData\Local\Temporary Projects\TypeScriptHTMLApp1\bin\TypeScriptHTMLApp1.dll
+C:\Users\crazz\AppData\Local\Temporary Projects\TypeScriptHTMLApp1\bin\TypeScriptHTMLApp1.pdb
+C:\Users\crazz\AppData\Local\Temporary Projects\TypeScriptHTMLApp1\obj\Debug\TypeScriptHTMLApp1.csprojResolveAssemblyReference.cache
+C:\Users\crazz\AppData\Local\Temporary Projects\TypeScriptHTMLApp1\obj\Debug\TypeScriptHTMLApp1.dll
+C:\Users\crazz\AppData\Local\Temporary Projects\TypeScriptHTMLApp1\obj\Debug\TypeScriptHTMLApp1.pdb
